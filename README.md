@@ -1,8 +1,8 @@
-# SISKA (Sistem Informasi Kepramukaan)
+# SIAPKA
 
 ## Deskripsi
 
-SISKA adalah sebuah sistem informasi kepramukaan yang dibuat untuk memenuhi tugas akhir mata kuliah **Teknologi Open Source**.
+SIAPKA adalah sebuah sistem informasi kepramukaan yang dibuat untuk memenuhi tugas akhir mata kuliah **Teknologi Open Source**.
 
 ## Instalasi
 
