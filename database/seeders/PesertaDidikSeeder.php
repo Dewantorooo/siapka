@@ -25,12 +25,12 @@ class PesertaDidikSeeder extends Seeder
         'password' => bcrypt('12345678')
       ])->id,
       'pangkalan_id' => 1,
-      'gender' => 'Perempuan',
+      'gender' => 'Laki-laki',
       'no_hp' => '089999999999',
       'alamat' => 'Jalan Jeruk, Kecamatan Dungingi, Kelurahan Huangobotu',
       'tanggal_lahir' => '2003-12-08',
       // 'foto' => 'https://api.multiavatar.com/shaphire.svg',
-      'agama_id' => 1
+      'agama_id' => 6
     ]);
 
     PesertaDidik::factory(19)->create();
