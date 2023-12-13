@@ -19,7 +19,7 @@ class PesertaDidikSeeder extends Seeder
   {
     PesertaDidik::create([
       'user_id' => User::create([
-        'nama' => 'Shafira Thalib Peserta',
+        'nama' => 'Reza Sune',
         'username' => 'pesertadidik',
         'email' => 'pesertadidik@gmail.com',
         'password' => bcrypt('12345678')
