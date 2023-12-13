@@ -18,7 +18,7 @@ class PembinaSeeder extends Seeder
   {
     Pembina::create([
       'user_id' => User::create([
-        'nama' => 'Shafira Thalib Pembina',
+        'nama' => 'Rizaldie Pobela',
         'username' => 'pembina',
         'email' => 'pembina@gmail.com',
         'password' => bcrypt('12345678')
